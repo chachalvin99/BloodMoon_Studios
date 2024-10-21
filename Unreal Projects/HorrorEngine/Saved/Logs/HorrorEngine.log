@@ -4192,3 +4192,287 @@ Key6
 [2024.10.21-17.42.33:609][354]AssetCheck: New page: Asset Save: Overview
 [2024.10.21-17.42.33:609][354]LogContentValidation: Display: Validating /Script/Engine.World /Game/HorrorEngine/Maps/Overview.Overview
 [2024.10.21-17.42.38:776][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.10.21-17.43.36:067][370]Cmd: EDIT COPY
+[2024.10.21-17.43.36:262][378]Cmd: EDIT PASTE
+[2024.10.21-17.44.20:479][266]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.21-17.44.20:489][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.21-17.44.20:490][266]PIE: New page: PIE session: Overview (21 oct. 2024 21:44:20)
+[2024.10.21-17.44.20:491][266]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_Overview
+[2024.10.21-17.44.20:690][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.199345s)
+[2024.10.21-17.44.20:690][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/Overview.Overview to /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview (0.199438s)
+[2024.10.21-17.44.20:705][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.10.21-17.44.20:708][266]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-17.44.20:708][266]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-17.44.20:708][266]LogAIModule: Creating AISystem for world Overview
+[2024.10.21-17.44.20:710][266]LogPlayLevel: PIE: World Init took: (0.001631s)
+[2024.10.21-17.44.20:710][266]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.10.21-17.44.20:710][266]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.21-17.44.20:710][266]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.21-17.44.20:710][266]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.21-17.44.20:710][266]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.21-17.44.20:710][266]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.21-17.44.20:710][266]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.21-17.44.20:710][266]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.21-17.44.20:710][266]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.21-17.44.20:711][266]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.21-17.44.20:711][266]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.21-17.44.20:711][266]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.21-17.44.20:715][266]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.21-17.44.20:743][266]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Buds Pro)
+[2024.10.21-17.44.20:744][266]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.21-17.44.20:744][266]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.21-17.44.20:744][266]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.21-17.44.20:745][266]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.10.21-17.44.20:745][266]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.10.21-17.44.20:748][266]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.10.21-17.44.20:748][266]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.10.21-17.44.20:748][266]LogInit: FAudioDevice initialized with ID 24.
+[2024.10.21-17.44.20:748][266]LogAudio: Display: Audio Device (ID: 24) registered with world 'Overview'.
+[2024.10.21-17.44.20:748][266]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.10.21-17.44.20:753][266]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2024.10.21-17.44.20:793][266]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview up for play (max tick rate 60) at 2024.10.21-19.44.20
+[2024.10.21-17.44.20:794][266]LogWorld: Bringing up level for play took: 0.040584
+[2024.10.21-17.44.20:797][266]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.10.21-17.44.20:798][266]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.10.21-17.44.20:805][266]LogStreaming: Warning: Failed to read file '../../../../../../Users/Miguel/OneDrive/Documentos/GitHub/BloodMoon_Studios/Unreal Projects/HorrorEngine/Saved/SaveGames/SaveSlotList.sav' error.
+[2024.10.21-17.44.20:807][266]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.10.21-17.44.20:821][266]PIE: Server logged in
+[2024.10.21-17.44.20:822][266]PIE: Play in editor total start time 0,333 seconds.
+[2024.10.21-17.44.22:472][361]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.44.22:472][361]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_5
+[2024.10.21-17.44.22:472][361]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.44.22:472][361]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_5
+[2024.10.21-17.44.24:157][462]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.44.24:157][462]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_6
+[2024.10.21-17.44.24:158][462]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.44.24:158][462]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_6
+[2024.10.21-17.44.25:122][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-17.44.25:122][518]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_Overview
+[2024.10.21-17.44.25:123][518]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-17.44.25:130][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-17.44.25:135][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.21-17.44.25:141][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-17.44.25:156][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-17.44.25:166][518]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.10.21-17.44.25:166][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.10.21-17.44.25:168][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.10.21-17.44.25:187][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.21-17.44.25:274][519]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.10.21-17.44.41:456][157]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2024.10.21-17.44.41:471][157]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-17.44.41:471][157]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-17.44.45:189][157]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2024.10.21-17.44.45:213][157]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.21-17.44.45:213][157]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.21-17.44.45:213][157]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.21-17.44.45:213][157]MaterialEditorStats: Shader Count: 0
+[2024.10.21-17.44.45:221][157]LogViewport: Scene viewport resized to 273x235, mode Windowed.
+[2024.10.21-17.44.45:317][158]LogAutomationController: Ignoring very large delta of 3.86 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: ================================================
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Total job queries 688, among them cache hits 94 (13.66%)
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Tracking 594 distinct input hashes that result in 291 distinct outputs (48.99%)
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: RAM used: 1,42 MiB of 819,20 MiB budget. Usage: 0.17%
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Shaders Compiled: 455
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Jobs assigned 455, completed 455 (100%)
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Average time worker was idle: 31.78 s
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Time job spent in pending queue: average 15.54 s, longest 49.83 s
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Job execution time: average 3.95 s, max 10.37 s
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Job life time (pending + execution): average 19.49 s, max 50.25
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Shader code size: average 6,936 KiB, min 160 B, max 58,922 KiB
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 93.33 s
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Jobs were issued in 243 batches (only local compilation was used), average 1.87 jobs/batch
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Average processing rate: 4.87 jobs/sec
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Total thread time: 303,327 s
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Total thread preprocess time: 23,214 s
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Percentage time preprocessing: 7.65%
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Effective parallelization: 3.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   45 times, average 1.15 sec, max 2.58 sec, min 0.70 sec)
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   65 times, average 1.02 sec, max 9.04 sec, min 0.35 sec)
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   60 times, average 0.83 sec, max 1.41 sec, min 0.24 sec)
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled   15 times, average 0.69 sec, max 0.98 sec, min 0.40 sec)
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   13 times, average 0.69 sec, max 1.13 sec, min 0.39 sec)
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.93% of total time (compiled   65 times, average 1.02 sec, max 9.04 sec, min 0.35 sec)
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display:                                             FDebugViewModePS - 17.11% of total time (compiled   45 times, average 1.15 sec, max 2.58 sec, min 0.70 sec)
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.48% of total time (compiled   60 times, average 0.83 sec, max 1.41 sec, min 0.24 sec)
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.98% of total time (compiled   40 times, average 0.68 sec, max 1.17 sec, min 0.38 sec)
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display:                                             FDebugViewModeVS - 8.38% of total time (compiled   45 times, average 0.56 sec, max 1.14 sec, min 0.23 sec)
+[2024.10.21-17.44.45:322][158]LogShaderCompilers: Display: ================================================
+[2024.10.21-17.44.45:343][159]MaterialEditorStats: Base pass shader: 185 instructions
+[2024.10.21-17.44.45:344][159]MaterialEditorStats: Base pass vertex shader: 122 instructions
+[2024.10.21-17.44.45:344][159]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.21-17.44.45:344][159]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.21-17.44.45:344][159]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.21-17.44.45:344][159]MaterialEditorStats: Shader Count: 4
+[2024.10.21-17.44.47:326][233]LogSlate: Window 'WorldGridMaterial' being destroyed
+[2024.10.21-17.44.47:333][233]LogSlate: Window 'WorldGridMaterial' being destroyed
+[2024.10.21-17.44.47:352][233]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-17.44.47:353][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-17.45.05:843][989]LogEditorViewport: Clicking Background
+[2024.10.21-17.45.12:324][233]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.21-17.45.12:333][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.21-17.45.12:333][233]PIE: New page: PIE session: Overview (21 oct. 2024 21:45:12)
+[2024.10.21-17.45.12:333][233]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_Overview
+[2024.10.21-17.45.12:522][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.187729s)
+[2024.10.21-17.45.12:522][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/Overview.Overview to /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview (0.187806s)
+[2024.10.21-17.45.12:536][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.10.21-17.45.12:543][233]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-17.45.12:543][233]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-17.45.12:544][233]LogAIModule: Creating AISystem for world Overview
+[2024.10.21-17.45.12:544][233]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2024.10.21-17.45.12:544][233]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.10.21-17.45.12:544][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.21-17.45.12:544][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.21-17.45.12:544][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.21-17.45.12:544][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.21-17.45.12:544][233]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.21-17.45.12:544][233]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.21-17.45.12:544][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.21-17.45.12:544][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.21-17.45.12:545][233]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.21-17.45.12:545][233]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.21-17.45.12:545][233]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.21-17.45.12:548][233]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.21-17.45.12:571][233]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Buds Pro)
+[2024.10.21-17.45.12:571][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.21-17.45.12:571][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.21-17.45.12:571][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.21-17.45.12:572][233]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.10.21-17.45.12:572][233]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.10.21-17.45.12:575][233]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.10.21-17.45.12:575][233]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.10.21-17.45.12:575][233]LogInit: FAudioDevice initialized with ID 25.
+[2024.10.21-17.45.12:575][233]LogAudio: Display: Audio Device (ID: 25) registered with world 'Overview'.
+[2024.10.21-17.45.12:575][233]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.10.21-17.45.12:579][233]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2024.10.21-17.45.12:618][233]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview up for play (max tick rate 60) at 2024.10.21-19.45.12
+[2024.10.21-17.45.12:619][233]LogWorld: Bringing up level for play took: 0.039569
+[2024.10.21-17.45.12:621][233]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.10.21-17.45.12:622][233]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.10.21-17.45.12:630][233]LogStreaming: Warning: Failed to read file '../../../../../../Users/Miguel/OneDrive/Documentos/GitHub/BloodMoon_Studios/Unreal Projects/HorrorEngine/Saved/SaveGames/SaveSlotList.sav' error.
+[2024.10.21-17.45.12:633][233]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.10.21-17.45.12:647][233]PIE: Server logged in
+[2024.10.21-17.45.12:648][233]PIE: Play in editor total start time 0,315 seconds.
+[2024.10.21-17.45.14:312][329]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.45.14:312][329]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_5
+[2024.10.21-17.45.14:312][329]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.45.14:312][329]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_5
+[2024.10.21-17.45.15:995][430]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.45.15:995][430]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_6
+[2024.10.21-17.45.15:995][430]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.45.15:995][430]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_6
+[2024.10.21-17.45.17:834][525]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.45.17:834][525]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_7
+[2024.10.21-17.45.17:834][525]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.45.17:834][525]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_7
+[2024.10.21-17.45.21:700][738]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.45.21:700][738]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_8
+[2024.10.21-17.45.21:700][738]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.45.21:700][738]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_8
+[2024.10.21-17.45.27:382][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-17.45.27:382][ 44]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_Overview
+[2024.10.21-17.45.27:383][ 44]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-17.45.27:391][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-17.45.27:397][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.21-17.45.27:403][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-17.45.27:427][ 44]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.21-17.45.27:428][ 44]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.10.21-17.45.27:428][ 44]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.10.21-17.45.27:431][ 44]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.10.21-17.45.27:437][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-17.45.27:449][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.21-17.45.27:474][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.10.21-17.45.40:388][535]Cmd: DELETE
+[2024.10.21-17.45.40:388][535]Cmd: ACTOR DELETE
+[2024.10.21-17.45.40:425][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.21-17.45.40:439][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.10.21-17.45.40:443][535]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2024.10.21-17.45.46:495][772]Cmd: EDIT COPY
+[2024.10.21-17.45.46:849][787]Cmd: EDIT PASTE
+[2024.10.21-17.46.11:970][963]Cmd: TRANSACTION UNDO
+[2024.10.21-17.46.11:970][963]LogEditorTransaction: Undo Scale Elements
+[2024.10.21-17.47.50:747][282]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.21-17.47.50:756][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.21-17.47.50:756][282]PIE: New page: PIE session: Overview (21 oct. 2024 21:47:50)
+[2024.10.21-17.47.50:757][282]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_Overview
+[2024.10.21-17.47.50:954][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196795s)
+[2024.10.21-17.47.50:954][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/Overview.Overview to /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview (0.196870s)
+[2024.10.21-17.47.50:967][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.21-17.47.50:970][282]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-17.47.50:970][282]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-17.47.50:971][282]LogAIModule: Creating AISystem for world Overview
+[2024.10.21-17.47.50:971][282]LogPlayLevel: PIE: World Init took: (0.001344s)
+[2024.10.21-17.47.50:971][282]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.10.21-17.47.50:971][282]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.21-17.47.50:972][282]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.21-17.47.50:972][282]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.21-17.47.50:972][282]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.21-17.47.50:972][282]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.21-17.47.50:972][282]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.21-17.47.50:972][282]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.21-17.47.50:972][282]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.21-17.47.50:972][282]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.21-17.47.50:972][282]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.21-17.47.50:972][282]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.21-17.47.50:975][282]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.21-17.47.50:998][282]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Buds Pro)
+[2024.10.21-17.47.50:998][282]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.21-17.47.50:998][282]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.21-17.47.50:998][282]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.21-17.47.50:999][282]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.10.21-17.47.50:999][282]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.10.21-17.47.51:002][282]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.10.21-17.47.51:002][282]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.10.21-17.47.51:002][282]LogInit: FAudioDevice initialized with ID 26.
+[2024.10.21-17.47.51:002][282]LogAudio: Display: Audio Device (ID: 26) registered with world 'Overview'.
+[2024.10.21-17.47.51:002][282]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.10.21-17.47.51:006][282]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2024.10.21-17.47.51:045][282]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview up for play (max tick rate 60) at 2024.10.21-19.47.51
+[2024.10.21-17.47.51:046][282]LogWorld: Bringing up level for play took: 0.040015
+[2024.10.21-17.47.51:049][282]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.10.21-17.47.51:050][282]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.10.21-17.47.51:072][282]LogStreaming: Warning: Failed to read file '../../../../../../Users/Miguel/OneDrive/Documentos/GitHub/BloodMoon_Studios/Unreal Projects/HorrorEngine/Saved/SaveGames/SaveSlotList.sav' error.
+[2024.10.21-17.47.51:075][282]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.10.21-17.47.51:089][282]PIE: Server logged in
+[2024.10.21-17.47.51:090][282]PIE: Play in editor total start time 0,334 seconds.
+[2024.10.21-17.47.52:694][347]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.47.52:694][347]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_5
+[2024.10.21-17.47.52:694][347]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.47.52:694][347]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_5
+[2024.10.21-17.47.54:379][425]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.47.54:379][425]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_6
+[2024.10.21-17.47.54:379][425]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.47.54:379][425]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_6
+[2024.10.21-17.47.56:228][514]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.47.56:228][514]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_7
+[2024.10.21-17.47.56:228][514]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.47.56:228][514]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_7
+[2024.10.21-17.48.00:123][668]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.48.00:124][668]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_8
+[2024.10.21-17.48.00:124][668]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2024.10.21-17.48.00:124][668]LogScript: Warning: Script Msg called by: HorrorEvents_C /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview:PersistentLevel.HorrorEvents_C_8
+[2024.10.21-17.48.44:322][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-17.48.44:322][780]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_Overview
+[2024.10.21-17.48.44:323][780]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-17.48.44:332][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-17.48.44:337][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.21-17.48.44:345][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-17.48.44:358][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-17.48.44:368][780]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.10.21-17.48.44:368][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.10.21-17.48.44:371][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.10.21-17.48.44:388][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.21-17.48.44:472][781]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.10.21-17.48.53:457][100]Cmd: SELECT NONE
+[2024.10.21-17.49.50:283][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.10.21-17.49.50:290][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-17.49.50:374][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.10.21-17.49.50:716][624]LogSavePackage: Moving output files for package: /Game/HorrorEngine/Maps/Overview
+[2024.10.21-17.49.50:716][624]LogSavePackage: Moving '../../../../../../Users/Miguel/OneDrive/Documentos/GitHub/BloodMoon_Studios/Unreal Projects/HorrorEngine/Saved/Overview80D8AC5341FDB9A2B2CE97B7E551BAE1.tmp' to '../../../../../../Users/Miguel/OneDrive/Documentos/GitHub/BloodMoon_Studios/Unreal Projects/HorrorEngine/Content/HorrorEngine/Maps/Overview.umap'
+[2024.10.21-17.49.50:726][624]LogFileHelpers: Saving map 'Overview' took 0.378
+[2024.10.21-17.49.50:738][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 447 ms (total: 3.18 sec)
+[2024.10.21-17.49.50:744][624]AssetCheck: New page: Asset Save: Overview
+[2024.10.21-17.49.50:744][624]LogContentValidation: Display: Validating /Script/Engine.World /Game/HorrorEngine/Maps/Overview.Overview
