@@ -6201,3 +6201,28 @@ UnknownFunction []
 [2024.10.22-11.26.40:084][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
 [2024.10.22-11.26.46:485][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2024.10.22-11.26.51:330][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.10.22-11.29.24:043][990]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="C:/Users/Miguel/OneDrive/Documentos/GitHub/BloodMoon_Studios/Unreal Projects/HorrorEngine/" -install="C:/Users/Miguel/OneDrive/Escritorio/HorrorEngine.zip"" -nocompile -nocompileuat ]
+[2024.10.22-11.29.24:137][993]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2024.10.22-11.29.24:190][996]UATHelper: Zip Project Task (Windows (Editor)): Using bundled DotNet SDK version: 6.0.302
+[2024.10.22-11.29.24:498][ 12]UATHelper: Zip Project Task (Windows (Editor)): Starting AutomationTool...
+[2024.10.22-11.29.24:509][ 14]UATHelper: Zip Project Task (Windows (Editor)): Parsing command line: ZipProjectUp -nocompileeditor -project="C:/Users/Miguel/OneDrive/Documentos/GitHub/BloodMoon_Studios/Unreal Projects/HorrorEngine/" -install=C:/Users/Miguel/OneDrive/Escritorio/HorrorEngine.zip -nocompile -nocompileuat
+[2024.10.22-11.29.24:807][ 31]UATHelper: Zip Project Task (Windows (Editor)): Initializing script modules...
+[2024.10.22-11.29.26:765][ 96]UATHelper: Zip Project Task (Windows (Editor)): Total script module initialization time: 1.95 s.
+[2024.10.22-11.29.27:364][132]UATHelper: Zip Project Task (Windows (Editor)): Executing commands...
+[2024.10.22-11.29.27:364][132]UATHelper: Zip Project Task (Windows (Editor)): Started zipping project up
+[2024.10.22-11.29.27:364][132]UATHelper: Zip Project Task (Windows (Editor)): Project directory: C:\Users\Miguel\OneDrive\Documentos\GitHub\BloodMoon_Studios\Unreal Projects\HorrorEngine
+[2024.10.22-11.29.27:364][132]UATHelper: Zip Project Task (Windows (Editor)): Install directory: C:/Users/Miguel/OneDrive/Escritorio/HorrorEngine.zip
+[2024.10.22-11.29.27:364][132]UATHelper: Zip Project Task (Windows (Editor)): Packaging up the project...
+[2024.10.22-11.30.07:735][ 71]UATHelper: Zip Project Task (Windows (Editor)): Completed zipping project up
+[2024.10.22-11.30.07:735][ 71]UATHelper: Zip Project Task (Windows (Editor)): BUILD SUCCESSFUL
+[2024.10.22-11.30.07:745][ 71]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool executed for 0h 0m 43s
+[2024.10.22-11.30.07:745][ 71]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool exiting with ExitCode=0 (Success)
+[2024.10.22-11.31.12:524][523]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2024.10.22-11.31.12:529][523]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2024.10.22-11.31.12:685][523]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2024.10.22-11.31.12:688][523]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2024.10.22-11.31.12:737][523]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11476
+[2024.10.22-11.31.13:072][524]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e1369b43-0dc3-4893-9e86-e2042633974d}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=174.54
+[2024.10.22-11.31.13:073][524]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.10.22-11.31.13:074][524]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.10.22-11.33.04:767][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
