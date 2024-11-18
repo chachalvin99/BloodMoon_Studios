@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/admin/Documents/GitHub/BloodMoon_Studios/Unreal Projects/HorrorEngine/Content/Character_LookAtPlayer/BP_OjoActor.uasset",
+				"C:/Users/admin/Documents/GitHub/BloodMoon_Studios/Unreal Projects/HorrorEngine/Content/HorrorEngine/Maps/Niveldefinitivo.umap",
+				"C:/Users/admin/Documents/GitHub/BloodMoon_Studios/Unreal Projects/HorrorEngine/Content/Character_LookAtPlayer/Look_At_Player.uasset",
+				"C:/Users/admin/Documents/GitHub/BloodMoon_Studios/Unreal Projects/HorrorEngine/Content/Character_LookAtPlayer/Sphere_Blueprint.uasset",
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uasset",
 				"C:/Users/Ricardo/Documents/GitHub/BloodMoon_Studios/Unreal Projects/HorrorEngine/Content/BlockingPisoTerminado.uasset",
